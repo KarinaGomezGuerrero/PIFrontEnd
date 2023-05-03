@@ -1,10 +1,10 @@
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Service\SExperiencia.java
-D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Interface\IPersonaService.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Security\MainSecurity.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Repository\REducacion.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Security\Dto\JwtDto.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Security\Dto\LoginUsuario.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Security\Dto\NuevoUsuario.java
+D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Dto\dtoPersona.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Entity\Educacion.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Dto\dtoHys.java
 D:\Users\Karina\Desktop\ProyectoIntegrador_GomezGuerreroKarina\ProyectoIntegrador_GomezGuerreroKarina\BackEnd\src\main\java\com\portfolio\kgg\Security\Controller\AuthController.java

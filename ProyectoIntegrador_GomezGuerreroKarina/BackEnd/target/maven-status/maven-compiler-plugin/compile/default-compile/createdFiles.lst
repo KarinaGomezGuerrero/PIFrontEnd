@@ -6,12 +6,12 @@ com\portfolio\kgg\Security\Repository\iRolRepository.class
 com\portfolio\kgg\Security\Service\RolService.class
 com\portfolio\kgg\Controller\CExperiencia.class
 com\portfolio\kgg\Entity\Experiencia.class
-com\portfolio\kgg\Interface\IPersonaService.class
 com\portfolio\kgg\Security\Dto\JwtDto.class
 com\portfolio\kgg\Security\Entity\Rol.class
 com\portfolio\kgg\Dto\dtoHys.class
 com\portfolio\kgg\Security\jwt\JwtEntryPoint.class
 com\portfolio\kgg\Security\Controller\AuthController.class
+com\portfolio\kgg\Dto\dtoPersona.class
 com\portfolio\kgg\Security\Dto\NuevoUsuario.class
 com\portfolio\kgg\Security\Entity\Usuario.class
 com\portfolio\kgg\Service\ImpPersonaService.class
