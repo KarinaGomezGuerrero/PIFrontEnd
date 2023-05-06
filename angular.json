@@ -26,8 +26,8 @@
             ],
             "styles": [
               "src/styles.css",
-              "node_modules/node_modules/bootstrap/dist/css/bootstrap.css"
-
+              "PIFrontEnd/node_modules/bootstrap/dist/css/bootstrap.css"
+            
             ],
             "scripts": []
           },

@@ -8,7 +8,8 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class EducacionService {
-  URL = environment.URL + 'educacion/';
+  
+  URL = 'https://backendkgg.onrender.com/educacion/';
 
   constructor(private httpClient : HttpClient) { }
 

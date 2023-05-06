@@ -7,4 +7,12 @@ export const environment = {
     apiKey: 'AIzaSyBu0sDQNkcwfA5SO0X_AfjfyrSiC2Gjcl8',
     authDomain: 'frontendkgg.firebaseapp.com',
     messagingSenderId: '876461652699',
-  },};
+  },
+
+  production: true,
+    URL: 'https://backendkgg.onrender.com'
+};
+
+  
+    
+  

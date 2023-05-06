@@ -8,7 +8,7 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class SExperienciaService {
-  expURL = environment.URL + 'explab/';
+  expURL = 'https://backendkgg.onrender.com/explab';
 
   constructor(private httpClient: HttpClient) { }
 
